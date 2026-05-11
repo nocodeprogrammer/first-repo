@@ -1,6 +1,6 @@
 # Hi, I'm Piyush 👋
 
-I'm a Customer Lead at Microsoft's SfMC team | Mission Critical, and this is my learning repo.
+I'm a Cloud Solution Architect at Microsoft's SfMC team | Mission Critical, and this is my learning repo.
 
 ## What this is
 
