@@ -1,10 +1,10 @@
 # Hi, I'm Piyush 👋
 
-I'm a Customer Lead at Microsoft's SfMC (Success for Microsoft Cloud) team, and this is my learning repo.
+I'm a Customer Lead at Microsoft's SfMC team | Mission Critical, and this is my learning repo.
 
 ## What this is
 
-I'm starting from scratch with Git and GitHub — building real skills that I can apply to my Dynamics 365 work. The goal is to get comfortable with version control, collaboration workflows, and eventually AI-driven automation for customer success scenarios.
+I'm starting from scratch with Git and GitHub — building real skills that I can apply to my Dynamics 365 CE work. The goal is to get comfortable with version control, collaboration workflows, and eventually AI-driven automation for customer success scenarios.
 
 ## What I'm exploring
 
